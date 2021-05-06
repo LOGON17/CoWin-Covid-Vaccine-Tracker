@@ -4,4 +4,4 @@ An easy way to track which covid vaccine is available in your nearby hospitals.
 This uses an API from https://apisetu.gov.in/.
 The site is hosted using Google Sites.
 
-Website line : https://sites.google.com/view/vaccinetracker/home
+Website link : https://sites.google.com/view/vaccinetracker/home
