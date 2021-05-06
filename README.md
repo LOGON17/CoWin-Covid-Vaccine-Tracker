@@ -1,4 +1,4 @@
-# CO-Win-Covid-Vaccine-Tracker
+# CoWin-Covid-Vaccine-Tracker
 Easy covid vaccine tracker.
 An easy way to track which covid vaccine is available in your nearby hospitals.
 This uses an API from https://apisetu.gov.in/.
